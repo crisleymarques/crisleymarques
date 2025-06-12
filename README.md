@@ -1,7 +1,20 @@
-### Hi, I am Cris! 👋
-I am Software Developer and a Computer Science student at UFCG.
+### Hi, I’m Cris! 👋  
+I’m a Software Engineer specializing in AI & LLMs, and I hold a Computer Science degree from UFCG.
 
-Currently studying and researching LLMs and AI.
+Currently deepening my expertise in artificial intelligence and large language models.
+
+<details>
+  <summary><b>☕ Fun fact</b> (click to open!)</summary>
+  
+  Most of my best bug fixes happen right after a delicious espresso! 🤎  
+  
+ > **_code · sip · repeat_**
+> 
+  <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" alt="Steaming coffee cup" width="200"/>
+
+</details>
+
+---
 
 <!-- 
 <div align="center">
